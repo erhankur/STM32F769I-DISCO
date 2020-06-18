@@ -9,8 +9,9 @@ I will skip some basic steps which are mentioned in the book at chapter 4-5-6
 
 I assume you already downloaded mbed-cli and tensorflow to your local machine.
 
-If you have any question or comment, feel free to write me.
-erhankurubas@gmail.com
+If you have any question or comment, feel free to e-mail me.
+erhankurubas@gmail.com  
+
 ## STEP 1
 ## Create template for STM32F769I
 Change into directory to
