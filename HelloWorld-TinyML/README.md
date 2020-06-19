@@ -28,7 +28,7 @@ Change into directory:
 
     tensorflow/tensorflow/lite/micro/examples
 
-Copy disco_f769ni folder and delete disco_f746ng
+Copy disco_f769ni folder under examples directory
 ## STEP 3
 ## Generate a directory suitable for mbed
 To do so, run the following command in the bash inside tensorflow root directory.
