@@ -38,7 +38,7 @@ As a result below directory will be created.
 
     tensorflow/lite/micro/tools/make/gen/mbed_cortex-m4/prj/micro_speech/mbed
 
-This directory contains all of the example’s dependencies structured in the correct way for Mbed to be able to build it.
+This directory contains all of the example’s dependencies structured in the correct way for Mbed to be able to build it  
 ## STEP 4
 ## Download the dependencies
 First, change into the directory so that you can run some commands in there from mbed-cli  
