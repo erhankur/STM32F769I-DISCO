@@ -9,7 +9,7 @@ I will skip some basic steps which are mentioned in the book at chapter 7-8
 
 I assume you already downloaded mbed-cli and tensorflow to your local machine.
 
-If you have any question or comment, feel free to e-mail me. erhankurubas@gmail.com  
+If you have any question or comment, feel free to e-mail me.  
 
 ## STEP 1
 ## Create template for STM32F769I
@@ -38,8 +38,8 @@ As a result below directory will be created.
 
     tensorflow/lite/micro/tools/make/gen/mbed_cortex-m4/prj/micro_speech/mbed
 
-This directory contains all of the example’s dependencies structured in the correct way for Mbed to be able to build it  
-## STEP 4
+This directory contains all of the example’s dependencies structured in the correct way for Mbed to be able to build it
+## STEP 4
 ## Download the dependencies
 First, change into the directory so that you can run some commands in there from mbed-cli  
 
