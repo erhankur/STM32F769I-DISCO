@@ -55,18 +55,6 @@ Next, instruct Mbed to download the dependencies and prepare to build:
     mbed deploy
 ## FINAL STEP
 ## Compile && flash
-Before compile you should comment out below lines in the makefile.inc under
-
-    /tensorflow/tensorflow/lite/micro/examples/hello_world directory
-
-tensorflow/lite/micro/examples/hello_world/output_handler.cc \
-tensorflow/lite/micro/examples/hello_world/constants.cc
-
-Or you can copy/paste makefile.inc which I already uploaded.
-
-We will compile output_handler.cc and constants.cc from disco_f769ni
-
-Then;
 
 run the following command
 
@@ -80,6 +68,6 @@ Also I included led and button just for fun. I can not imagine embedded hello wo
 
 So don't be suprise when you see different output_handler.cc from the original one.
 
-Congratulations! You have deployed the application.
+__Congratulations! You have deployed the application__
 
 Keep in mind; to make some changes in the code you should edit the c or cc files into the mbed folder. Do not except any change if you edit tensorflow/tensorflow/lite/micro/examples/disco_f769ni files.
